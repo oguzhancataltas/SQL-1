@@ -1,1 +1,4 @@
 # SQL-1
++ SELECT title, description FROM film;
++ SELECT * FROM film
+WHERE length > 60 AND length < 75;
